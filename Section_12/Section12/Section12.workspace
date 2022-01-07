@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section12" Database="" Version="10000">
+  <Project Name="TestingSizeofOnPointers" Path="TestingSizeofOnPointers/TestingSizeofOnPointers.project" Active="No"/>
+  <Project Name="SimplePointers" Path="SimplePointers/SimplePointers.project" Active="No"/>
+  <Project Name="Dereferencing" Path="Dereferencing/Dereferencing.project" Active="No"/>
+  <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
+  <Project Name="ArraysAndPointers" Path="ArraysAndPointers/ArraysAndPointers.project" Active="No"/>
+  <Project Name="PointerArithmetic" Path="PointerArithmetic/PointerArithmetic.project" Active="No"/>
+  <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="No"/>
+  <Project Name="SimpleTest" Path="SimpleTest/SimpleTest.project" Active="No"/>
+  <Project Name="PassingPointers2" Path="PassingPointers2/PassingPointers2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TestingSizeofOnPointers" ConfigName="Debug"/>
+      <Project Name="SimplePointers" ConfigName="Debug"/>
+      <Project Name="Dereferencing" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="ArraysAndPointers" ConfigName="Debug"/>
+      <Project Name="PointerArithmetic" ConfigName="Debug"/>
+      <Project Name="PassingPointers1" ConfigName="Debug"/>
+      <Project Name="SimpleTest" ConfigName="Debug"/>
+      <Project Name="PassingPointers2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TestingSizeofOnPointers" ConfigName="Release"/>
+      <Project Name="SimplePointers" ConfigName="Release"/>
+      <Project Name="Dereferencing" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="ArraysAndPointers" ConfigName="Release"/>
+      <Project Name="PointerArithmetic" ConfigName="Release"/>
+      <Project Name="PassingPointers1" ConfigName="Release"/>
+      <Project Name="SimpleTest" ConfigName="Release"/>
+      <Project Name="PassingPointers2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
